@@ -39,7 +39,7 @@ ASL_Project/
 - Optimize YOLO detection for better performance.
 
 ## Contributors
-- **Your Name** - Sara Elwakeel
+- **Your Name** - Sara Elwakeel , Abdallah Tera ,Mariam Mostafa
 
 ## License
 This project is open-source and available under the MIT License.
